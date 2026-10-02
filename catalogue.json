@@ -1,0 +1,38 @@
+[
+  {
+    "id": "B101",
+    "title": "Python Programming",
+    "category": "Programming",
+    "available": 0
+  },
+  {
+    "id": "B102",
+    "title": "Database Management Systems",
+    "category": "Database",
+    "available": 2
+  },
+  {
+    "id": "B103",
+    "title": "Computer Networks",
+    "category": "Networking",
+    "available": 0
+  },
+  {
+    "id": "B104",
+    "title": "Operating Systems",
+    "category": "Systems",
+    "available": 4
+  },
+  {
+    "id": "B105",
+    "title": "Artificial Intelligence",
+    "category": "AI",
+    "available": 1
+  },
+  {
+    "id": "B106",
+    "title": "Web Technology",
+    "category": "Web Development",
+    "available": 2
+  }
+]
